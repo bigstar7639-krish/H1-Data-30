@@ -106,3 +106,6 @@ A: Cedric the Entertainer - Entertainment: Cartoon & Animations
 Auto Quiz - Diwali 🧠
 Q: In which game did the character "Mario" make his first appearance?
 A: Donkey Kong - Entertainment: Video Games
+Auto Quiz - Pongal 🧠
+Q: How many controllers could a Nintendo GameCube have plugged in at one time?
+A: 4 - Entertainment: Video Games
