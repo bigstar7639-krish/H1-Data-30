@@ -58,3 +58,6 @@ A: 16 - Geography
 Auto Quiz - Japanese Temple 🧠
 Q: If you are traveling at a speed of 80 mph, how long will it take you to drive 80 miles?
 A: 60 minutes - General Knowledge
+Auto Quiz - Japanese Girl 🧠
+Q: What scientific suborder does the family Hyaenidae belong to?
+A: Feliformia - Animals
