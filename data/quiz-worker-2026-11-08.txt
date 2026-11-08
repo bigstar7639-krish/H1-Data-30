@@ -67,3 +67,6 @@ A: Long Term Support - Science: Computers
 Auto Quiz - Ninja 🧠
 Q: Which of these is NOT a game under the Worms series?
 A: Major Malfunction - Entertainment: Video Games
+Auto Quiz - Beijing 🧠
+Q: Which character is from "Splatoon"?
+A: Marie - Entertainment: Video Games
