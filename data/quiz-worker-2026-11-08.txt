@@ -7,3 +7,6 @@ A: Aloysius O'Hare - Entertainment: Film
 Auto Quiz - Economics 🧠
 Q: In "Undertale", how many main endings are there?
 A: 3 - Entertainment: Video Games
+Auto Quiz - Politics 🧠
+Q: What does the term MIME stand for, in regards to computing?
+A: Multipurpose Internet Mail Extensions - Science: Computers
