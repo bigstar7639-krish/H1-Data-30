@@ -10,3 +10,6 @@ A: 3 - Entertainment: Video Games
 Auto Quiz - Politics 🧠
 Q: What does the term MIME stand for, in regards to computing?
 A: Multipurpose Internet Mail Extensions - Science: Computers
+Auto Quiz - Law 🧠
+Q: Butters Stotch, Pip Pirrup, and Wendy Testaburger are all characters in which long running animated TV series?
+A: South Park - Entertainment: Cartoon & Animations
