@@ -61,3 +61,6 @@ A: 60 minutes - General Knowledge
 Auto Quiz - Japanese Girl 🧠
 Q: What scientific suborder does the family Hyaenidae belong to?
 A: Feliformia - Animals
+Auto Quiz - Samurai 🧠
+Q: What does LTS stand for in the software market?
+A: Long Term Support - Science: Computers
