@@ -64,3 +64,6 @@ A: Feliformia - Animals
 Auto Quiz - Samurai 🧠
 Q: What does LTS stand for in the software market?
 A: Long Term Support - Science: Computers
+Auto Quiz - Ninja 🧠
+Q: Which of these is NOT a game under the Worms series?
+A: Major Malfunction - Entertainment: Video Games
